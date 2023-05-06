@@ -5,7 +5,7 @@ from flask import jsonify
 db_user = 'root'
 db_password = 'QjV"FGSh;M);H%LP'
 db_name = 'spotmusic'
-db_local_host = '34.72.96.119:3306'
+db_local_host = '10.107.32.4'
 
 def open_connection():
 
